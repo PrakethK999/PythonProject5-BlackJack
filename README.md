@@ -18,7 +18,7 @@ A simplified Blackjack game built with Python.
 ## How to run
 
 1. Clone the repository
-2. Run python BlackJack.py
+2. Run `python Blackjack.py`
 3. Choose to play, then decide whether to draw an extra card
 
 ## Built with
